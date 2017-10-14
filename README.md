@@ -1,2 +1,2 @@
-# CatFeeder
-Cat auto feeding setup
+# Auto Feeder
+Auto feeding setup
